@@ -9,5 +9,8 @@
     "validator": "^7.0.0"
   },
   "author": "Quentin Homareau <quentin.homareau@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "serverless-offline": "^8.0.0"
+  }
 }

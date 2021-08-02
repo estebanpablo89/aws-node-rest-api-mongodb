@@ -37,3 +37,6 @@ functions:
           path: user/{id}
           method: get
           cors: true
+
+plugins:
+  - serverless-offline
